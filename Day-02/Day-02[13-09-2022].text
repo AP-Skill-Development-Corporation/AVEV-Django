@@ -1,0 +1,43 @@
+Day-02[13-09-2022]:
+===================
+	Good Morning to All...
+
+	Input:
+		45 56
+	Output:
+		Addition of 45 and 56 is: ?
+
+	print(45+56) => ?
+	x = 45
+	y = 56
+
+	Input,output
+	Function types
+	Function argument types
+	Data Structures
+	Packages and Modules
+
+	Project:
+	========
+		AVEVProject
+			AVEVProject => [Admin App]
+			manage.py => Service File
+
+	Admin App Files:
+	================
+	- init => Interpreter considered as a python file
+	- asgi => Asynchronous Gateway Interface
+	- wsgi => Web Server Gateway Interface
+	- settings => For All Configurations we need to configure
+	- urls => Checking of an url name to access
+
+
+	a=10
+	b=20
+
+	a,b=10,20
+
+	a = b = c = 20
+	a,b=True,list(map(int,input().split()))
+
+	
