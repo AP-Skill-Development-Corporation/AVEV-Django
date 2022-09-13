@@ -1,0 +1,102 @@
+Day-01[12-09-2022]:
+==================
+	Good Morning to All....
+
+	Web Development Using Django 
+	=============================
+
+	def func(classparameters):
+		//stmnts
+		return return_value
+
+	for iterationvariablename in range(start,stop,step):
+	//stmnts
+
+	[start:stop:step]
+
+	range(5)
+	0,1,2,3,4
+		
+	range(2,10)
+	2,3,4,5,6,7,8,9
+
+	range(2,25,5)
+	2,7,12,17,22
+
+	Python 
+	======
+		https://python.org
+		Downloads
+		Windows
+			Pre release
+			stable release
+		cntrl+f => python 3.7.5
+			help
+			embedded
+			executeable
+			zip file
+		x86 executeable for 32 bit
+
+	Installation:
+	=============
+		- 2 options
+		- 2 checkboxes
+		2 options
+			install now => by default path
+			custom installation	=> user defined path location
+		2 checkboxes
+			All users permission
+			Add python 3.x path
+
+	Checking of python version
+	==========================
+		cmd
+		python -V
+
+	Pip:[To install third party packages]
+	=====================================
+		cmd
+		pip install "packagename"
+		pythom -m pip install --upgrade pip
+		pip -V
+
+	Django Installation:
+	====================
+		cmd
+		pip install django==3.0
+		pip install django [Updated Version of Django]
+	
+	Django Checking:
+	================
+		cmd
+		django-admin --version
+
+	Project Creation:
+	==================
+		cmd
+		django-admin startproject "projectname"
+		projectname
+			projectname [Admin App]
+			manage.py [main service file]
+
+	Project Running:
+	================
+		manage.py => cmd
+		manage.py runserver
+		python manage.py runserver
+
+		http://127.0.0.1:8000
+		cntrl+Break => exit of server
+
+		we need to use the ip in browser to access the webpage.
+
+
+		
+	Python Downloads,Installation and configuration
+	Sublime,db browser installations
+	Pip checking, Upgrade
+	Django installation,Project Creation and running a server
+
+
+
+		
