@@ -1,0 +1,29 @@
+Day-03[14-09-2022]:
+===================
+	Good Morning to All..
+
+	UserApp Creation:
+	=================
+		cmd
+		manage.py startapp "appname"
+			or
+		python manage.py startapp "appname"
+
+	UserApp Files:
+	==============
+	- init => It will be considered as a python file
+	- admin => Configuration for user created tables
+	- models => table and fields creations
+	- apps => App Configurations
+	- views => Business Logic
+	- tests => unit testing,black box testing to test a project
+
+	HttpResponse and Request
+	HttpResponse with string
+	Dynamic Url Mapping
+	HttpResponse with single parameter,two or more n number of parameters
+	HttpResponse with html tag
+	HttpResponse with html tag with css
+	HttpResponse with html structure
+	HttpResponse with Javascript
+	Template file access 
