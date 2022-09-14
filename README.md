@@ -13,3 +13,8 @@ Django for CSE,DS,ML
   - Function types and argument types
   - Data Structures, Packages and Modules access by using OOPs Concept
   - Admin App Overview
+
+## Day-03(14-09-2022):
+  - Dynamic Url Mapping(single,two or more n number of parameters)
+  - HttpResponse and Request
+  - Template File access
