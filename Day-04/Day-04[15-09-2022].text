@@ -1,0 +1,23 @@
+Day-04[15-09-2022]:
+===================
+	Good Morning to All..
+
+	templates:
+	==========
+		-> only .html files
+		-> within a template .html
+	=> templates
+		=> html
+			.html file
+
+	render():
+	=========
+		render(self,'.html file location',dictionary)
+
+	Static File handling:
+	=====================
+	css,js,images,audio or video
+
+	User defined styling and functions by using external css and js
+	Bootstrap Introduction
+	

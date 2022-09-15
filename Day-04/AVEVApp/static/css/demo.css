@@ -1,0 +1,24 @@
+h3
+{
+	margin-left: 25%;
+    margin-right: 25%;
+    background-color: deeppink;
+    padding: 15px;
+    border-radius: 5px 25px 25px 5px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+form
+{
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 2px solid green;
+	border-radius: 2px;
+	padding:12px;
+}
+
+input,label 
+{
+	padding: 5px;
+}
