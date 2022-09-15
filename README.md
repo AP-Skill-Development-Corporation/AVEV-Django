@@ -18,3 +18,8 @@ Django for CSE,DS,ML
   - Dynamic Url Mapping(single,two or more n number of parameters)
   - HttpResponse and Request
   - Template File access
+
+## Day-04(15-09-2022):
+  - Temporary Style access by using browser
+  - Static file handling
+  - Bootstrap Introduction
