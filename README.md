@@ -23,3 +23,11 @@ Django for CSE,DS,ML
   - Temporary Style access by using browser
   - Static file handling
   - Bootstrap Introduction
+
+## Day-05(16-09-2022):
+  - Bootstrap Form Controls
+  - Data render from controllers to templates and templates to controllers and to another template
+  - Migrations and Migrate
+  - ORM Queries
+  - CRUD Operations
+  - Django Templates with include and extends
