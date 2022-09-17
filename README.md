@@ -31,3 +31,9 @@ Django for CSE,DS,ML
   - ORM Queries
   - CRUD Operations
   - Django Templates with include and extends
+
+## Day-06(17-09-2022):
+  - SuperUser Creation and roles of user
+  - User authentication and Autherization
+  - Template blocks
+  - Messages Concepts
